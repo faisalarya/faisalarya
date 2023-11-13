@@ -196,3 +196,5 @@ kelas :TI.22.A.5
         <string name="coast_message">Hello Toast</string>
         <string name="Back">kembali</string>
     </resources>
+
+    https://github.com/Muhjat7/Muhjat7/assets/129918243/2b498b76-d414-40fb-a0a9-3ca379489d27
