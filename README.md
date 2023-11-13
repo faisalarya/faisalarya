@@ -1,6 +1,6 @@
 <h1>deret bilangan </h1>
-Nama : Muhamad Jati Wasesa <br>
-Nim : 312210481 <br>
+Nama : Faisal Arya <br>
+Nim : 312210555 <br>
 kelas :TI.22.A.5
 
 
@@ -199,4 +199,4 @@ kelas :TI.22.A.5
 
 #hasil program dalam bentuk video
 
-https://github.com/Muhjat7/Muhjat7/assets/129918243/2b498b76-d414-40fb-a0a9-3ca379489d27
+https://github.com/faisalarya/faisalarya/blob/main/fibo.mp4129918243/2b498b76-d414-40fb-a0a9-3ca379489d27
